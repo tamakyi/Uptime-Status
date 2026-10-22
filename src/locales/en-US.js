@@ -68,7 +68,6 @@ export default {
     uptimeRobot: 'UptimeRobot',
     apiInterface: 'API',
     checkFrequency: 'Check frequency 5 minutes',
-    copyright: 'Copyright',
     duration: 'About {hours} hours',
     hours: '{h}h',
     minutes: '{m}m',

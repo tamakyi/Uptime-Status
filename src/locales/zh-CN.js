@@ -68,7 +68,6 @@ export default {
     uptimeRobot: 'UptimeRobot',
     apiInterface: '接口',
     checkFrequency: '检测频率 5 分钟',
-    copyright: '版权所有',
     duration: '约{hours}小时',
     hours: '{h}小时',
     minutes: '{m}分钟',

@@ -81,16 +81,6 @@
             class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
           >{{ t('footer.uptimeRobot') }}</a> {{ t('footer.apiInterface') }} | {{ t('footer.checkFrequency') }}
         </div>
-        <div>
-          {{ t('footer.copyright') }} © {{ pkg['start-year'] }} - {{ new Date().getFullYear() }} <a
-            :href="pkg.url"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="font-semibold hover:text-emerald-500 dark:hover:text-emerald-400 transition-colors"
-          >
-            {{ pkg.author }}
-          </a>
-        </div>
       </div>
     </div>
   </footer>
